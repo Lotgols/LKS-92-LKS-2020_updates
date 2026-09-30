@@ -1,0 +1,54 @@
+LKS-92 to LKS-2020 (DGN pārrēķins MicroStation / PowerSurvey V8i vidē) — lietošanas licence
+
+© 2026 Aldis Pizāns. Visas tiesības aizsargātas.
+
+1. Autors un tiesību turētājs. Programmas autors ir Aldis Pizāns (turpmāk —
+   Autors). Visas autortiesības un citas intelektuālā īpašuma tiesības uz šo
+   programmu — pirmkodu, izpildāmajiem failiem (`.exe`), ikonu,
+   dokumentāciju, konfigurāciju un to turpmākajām versijām — pieder Autoram.
+   Programma netiek pārdota; tiek piešķirtas tikai šajos noteikumos minētās
+   lietošanas tiesības.
+
+2. Lietošana tikai ar licenci. Programmu drīkst lietot tikai ar Autora
+   izsniegtu licences atslēgu, tikai tajā datorā, kuram atslēga izsniegta,
+   un tikai atslēgā norādītajā termiņā. Licence ir personiska un nav
+   nododama citai personai vai citam datoram.
+
+3. Bez Autora iepriekšējas rakstiskas atļaujas aizliegts:
+   a) programmu vai tās daļas kopēt (izņemot vienu rezerves kopiju licencētā
+      lietotāja vajadzībām), izplatīt, publicēt, pārdot, iznomāt, aizdot vai
+      jebkādā citā veidā nodot trešajām personām;
+   b) programmu mainīt, tulkot, dekompilēt, izjaukt vai veidot uz tās pamata
+      atvasinātus darbus, ciktāl to neatļauj Latvijas Republikas Autortiesību
+      likums;
+   c) apiet, atslēgt vai mainīt licences pārbaudi, kā arī izveidot, mainīt
+      vai viltot licences atslēgas;
+   d) noņemt vai mainīt autortiesību norādes programmā, tās logā, failu
+      īpašībās un dokumentācijā.
+
+4. Licences atsaukšana. Ja šie noteikumi tiek pārkāpti, Autors var licenci
+   atsaukt; tad programmas lietošana jāpārtrauc un visas tās kopijas
+   jāizdzēš. Autors patur tiesības prasīt zaudējumu atlīdzību.
+
+5. Garantijas atruna. Programma tiek nodota „tāda, kāda tā ir”, bez
+   jebkādām tiešām vai netiešām garantijām. Autors neatbild par zaudējumiem,
+   kas radušies programmas lietošanas rezultātā. Pārrēķina rezultāti pirms
+   izmantošanas vai nodošanas pasūtītājam lietotājam pašam jāpārbauda
+   saskaņā ar ģeodēzisko darbu prasībām.
+
+6. Piemērojamie tiesību akti. Šiem noteikumiem piemēro Latvijas Republikas
+   tiesību aktus. Strīdi tiek risināti Latvijas Republikas tiesā.
+
+Licences pieprasīšana: sazinieties ar Autoru un norādiet datora ID no
+programmas loga „Licence…”.
+
+---
+
+Trešo pušu komponentes (to licences paliek spēkā un uz tām šie noteikumi
+neattiecas):
+  - LĢIA NTv2 pārejas virsma LKS92toLKS2020NTv2.gsb un kontrolpunkti —
+    © Latvijas Ģeotelpiskās informācijas aģentūra, CC-BY 4.0
+    (https://www.lgia.gov.lv/lv/lks-2020), skat. grids/AVOTS.md;
+  - Python — Python Software Foundation License;
+  - pywin32 — PSF License;
+  - Tcl/Tk — BSD tipa licence; tkdnd — BSD tipa licence; tkinterdnd2 — MIT.
