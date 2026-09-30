@@ -33,8 +33,8 @@ vesels. Tāpēc šī vieta pati par sevi nav jāuzskata par uzticamu: izmainītu
 failu programma noraida.
 
 Programma sevi **nenomaina**: pārbaudītais ZIP tiek saglabāts programmas mapē
-`Atjauninajumi\`. Aizveriet programmu, izpakojiet ZIP un aizstājiet programmas failus;
-`Config`, `Seed` un `grids` mapes, ja tajās ir jūsu izmaiņas, saglabājiet.
+`Atjauninajumi\`. Aizveriet programmu, izpakojiet ZIP un aizstājiet
+`LKS-92_to_LKS-2020.exe` ar jauno. `Config`, `Seed`, `grids` un licence paliek, kā ir.
 
 ## Autoram
 
