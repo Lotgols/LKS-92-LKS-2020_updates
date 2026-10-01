@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "sequence": 1790845051,
-  "issued": "2026-10-01T08:57:31Z",
-  "expires": "2027-10-01T08:57:31Z",
+  "sequence": 1790849396,
+  "issued": "2026-10-01T10:09:56Z",
+  "expires": "2027-10-01T10:09:56Z",
   "app": {
-    "version": "0.9.2",
-    "file": "LKS92-LKS2020_v0.9.2-b43.148506d.zip",
-    "url": "https://github.com/Lotgols/LKS-92-LKS-2020_updates/releases/download/dwg-v0.9.2/LKS92-LKS2020_v0.9.2-b43.148506d.zip",
-    "size": 55292273,
-    "sha256": "4be9989c9a0db6887a8243a4b5afdaffe895f2ebefb8c588ec2888a80506d2bb",
-    "notes": "LKS-92 ↔ LKS-2020 DWG v0.9.2"
+    "version": "0.9.3",
+    "file": "LKS92-LKS2020_DWG_Converter_v0.9.3-b44.2c1ec9a.zip",
+    "url": "https://github.com/Lotgols/LKS-92-LKS-2020_updates/releases/download/dwg-v0.9.3/LKS92-LKS2020_DWG_Converter_v0.9.3-b44.2c1ec9a.zip",
+    "size": 55295138,
+    "sha256": "efd87e3a60a58a726a9a2123c74f0534c269db87d5849bda575a8e44b7dd8d4b",
+    "notes": "LKS-92 ↔ LKS-2020 DWG v0.9.3"
   }
 }
